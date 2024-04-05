@@ -1,5 +1,5 @@
-## Name:Saravanan G
-## Reg no:212223230194
+## Name:SRIDHARSHAN D
+## Reg no:212223040205
 ### ENCODER 8TO3 DATAFLOW Modelling
 
 **AIM:**
